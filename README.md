@@ -80,3 +80,7 @@ The conservative release path is physical shadow DBPF packages + narrow process-
 ## External research/tooling
 
 See [`docs/DEVELOPER_TOOLBOX.md`](docs/DEVELOPER_TOOLBOX.md) for current DBPF readers, Sims tooling, PresentMon, ETW/profiling, MinHook/Detours, compression libraries and filesystem candidates that Codex can evaluate instead of reinventing them.
+
+## Competitive landscape and related approaches
+
+See the [source-led comparison and evaluation plan](docs/competitive-landscape.md). Documented capabilities, research proposals and measured results are kept separate.
