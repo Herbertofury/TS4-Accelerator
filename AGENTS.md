@@ -11,3 +11,7 @@ Keep this file and nested instructions project-owned: setup, commands, constrain
 - Keep scanning, cache, ordering, shadow generation, launch/redirection and diagnostics independently owned with explicit contracts. Experimental paths cannot become mandatory dependencies of the conservative path.
 - Check Cargo.toml and rust-toolchain.toml for actual workspace/toolchain requirements. Windows/native builds, current-game handshake, equivalent conflict winners, save/restart and protected-data audits remain separate acceptance gates from offline checks.
 - Measure equivalent baseline/accelerated workloads without dropping content or changing conflict winners. Do not infer real-game performance or compatibility from fixtures or compilation.
+
+## Project skill
+
+Use `.agents/skills/accelerator-safety-validation/SKILL.md` for source recovery, shadow-package correctness, protected-data auditing and matched performance qualification. Missing recovered modules remain blockers, not permission to substitute guessed implementations.
